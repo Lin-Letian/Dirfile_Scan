@@ -1,6 +1,8 @@
 # Dirfile_Scan
 Dirfile Scan-目录/文件爆破工具
 
+下载：https://github.com/Lin-Letian/Dirfile_Scan/releases/tag/Dirfile_Scan
+
 图形化运行配置界面，可设置代理
 
 可自定义对 #目录 形式爆破
@@ -14,4 +16,3 @@ Dirfile Scan-目录/文件爆破工具
 设置代理时，可以通过Check Proxy按钮获取外网地址
 
 内置143个作者亲选字典，扫描率高，也可自定义字典。
-下载：https://github.com/Lin-Letian/Dirfile_Scan/releases/tag/Dirfile_Scan
